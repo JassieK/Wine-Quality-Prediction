@@ -1,4 +1,10 @@
-# Wine-Quality-Prediction
+# 🍷 Wine-Quality-Prediction
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+
+![20250510_0118_Wine Science Fusion_simple_compose_01jtv9c3tjfqkr19nx9j3bkpaf](https://github.com/user-attachments/assets/327c39b1-8678-4453-8e05-59556fa82040)
+
+
 ## Project Aims & Objectives 
 This is a general purpose project that seeks to <code style="color : red ">predict wine quality using various physicochemical parameters</code>. This objective is addressed through a detailed process of data analysis, preprocessing, model building, and evaluation. The project starts with import and preprocessing of data, where the data is cleaned, outliers is handled and the data is scaled. Then, there is exploratory data analysis, in which the data is visualised and analysed to understand the distributions and relationships among different variables. Building and training machine learning models. The main aim is to discover the model that will be best at predicting wine quality, information that could be useful even in the wine industry for improving wine production and quality control procedures.
 
